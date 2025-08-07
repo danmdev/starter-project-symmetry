@@ -18,7 +18,7 @@ class DailyNews extends StatelessWidget {
   _buildAppbar(BuildContext context) {
     return AppBar(
       title: const Text(
-        'Mi primera aplicacion Flutter',
+        'Daily News',
         style: TextStyle(color: Colors.black),
       ),
       actions: [
